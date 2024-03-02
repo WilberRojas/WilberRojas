@@ -6,6 +6,7 @@
 
 <h3 align="left">Things I code with:</h3>
 <p>
+  Main:
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
@@ -15,7 +16,7 @@
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
-  |
+  </br>Secondary:
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -25,10 +26,18 @@
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  |
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /> 
-  <img alt="SolidWorks" src="https://img.shields.io/badge/-SolidWorks-00457C?style=flat-square&logo=solidworks&logoColor=white" />
+  </br>Hardware:
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="ESP32" src="https://img.shields.io/badge/-ESP32-FF0000?style=flat-square&logo=espressif&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white" />
+  <img alt="Jetson Nano" src="https://img.shields.io/badge/-Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img alt="Tiva C Series" src="https://img.shields.io/badge/-Tiva_C_Series-F20000?style=flat-square&logo=ti&logoColor=white" />
+  <img alt="Particle Argon" src="https://img.shields.io/badge/-Particle_Photon-00BFFF?style=flat-square&logo=particle&logoColor=white" />
+  ||
+  <img alt="SolidWorks" src="https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=solidworks&logoColor=white" />
+  <img alt="Fusion 360" src="https://img.shields.io/badge/-Fusion_360-FE5733?style=flat-square&logo=autodesk&logoColor=white" />
+  <img alt="PrusaSlicer" src="https://img.shields.io/badge/-PrusaSlicer-F57900?style=flat-square&logo=prusa&logoColor=white" />
+  <img alt="Ultimaker Cura" src="https://img.shields.io/badge/-Ultimaker_Cura-00D5FF?style=flat-square&logo=ultimaker&logoColor=white" />
 
 </p>
 
