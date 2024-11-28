@@ -75,11 +75,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WilberRojas/beverage-production-line?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/WilberRojas/custom_ubuntu"><b>Custom Ubuntu</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/WilberRojas/custom_ubuntu?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/WilberRojas/custom_ubuntu?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/WilberRojas/custom_ubuntu?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WilberRojas/custom_ubuntu?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/WilberRojas/wordpress-dind"><b>Custom Ubuntu</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/WilberRojas/wordpress-dind?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/WilberRojas/wordpress-dind?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/WilberRojas/wordpress-dind?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WilberRojas/wordpress-dind?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
